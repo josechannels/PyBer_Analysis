@@ -30,7 +30,7 @@ The analysis suggests that:
 - Increasing the number of drivers in rural areas may increase total revenue since 
     - in rural areas each driver completed an average of 1.6 rides compared to drivers in urban areas that completed only an average of 0.67 rides 
     - and the average fare per ride is significantly higher in rural than urban areas. 
-- The analysis suggests that rides in rural areas may cover longer distances since the average fare per ride is higher in these settings.  If that is case, placing vehicles that are energy efficient in these areas may result in an increase in profit.
+- Rides in rural areas may cover longer distances since the average fare per ride is higher in these settings.  If that is case, placing vehicles that are energy efficient in these areas may result in an increase in profit.
 - 
 
 
