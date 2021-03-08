@@ -31,7 +31,7 @@ The analysis suggests that:
     - in rural areas each driver completed an average of 1.6 rides compared to drivers in urban areas that completed only an average of 0.67 rides 
     - and the average fare per ride is significantly higher in rural than urban areas. 
 - Rides in rural areas may cover longer distances since the average fare per ride is higher in these settings.  If that is case, placing vehicles that are energy efficient in these areas may result in an increase in profit.
-- 
+- it may be worthwhile to increase the number of drivers in urban settings in the month of March - where there are the highest peaks of revenue.
 
 
 
