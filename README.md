@@ -10,9 +10,13 @@ Software: Python 3.7.6, Visual Studio Code 1.53.2
 
 ## Summary
 
-The results of the analysis are depicted in the following plot:
+The results of the analysis are depicted in the following plot and table:
 
 ![](Analysis/PyBer_fare_summary.png)
 
+![](Analysis/Final_Table_Analsys.PNG)
 
+The analysis shows that 
+
+1) Significantly more 
 
