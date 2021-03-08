@@ -18,5 +18,6 @@ The results of the analysis are depicted in the following plot and table:
 
 The analysis shows that 
 
-1) Significantly more 
+1) The revenue by city type increases in the order
+
 
